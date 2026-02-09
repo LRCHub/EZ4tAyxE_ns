@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "アンダンテ",
+  "base_artist": "ClariS",
+  "createdAt": "2026-02-09T08:38:15.281525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ",
+      "artist": "Pastel＊Palettes (丸山彩、氷川日菜、白鷺千聖、大和麻弥、若宮イヴ)",
+      "has_synced": true,
+      "path": "select/01_はなまる◎アンダンテ_Pastel_Palettes_(丸山彩、氷川日菜、白鷺千聖、大和麻弥、若宮イヴ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ [instrumental]",
+      "artist": "Pastel＊Palettes (丸山彩、氷川日菜、白鷺千聖、大和麻弥、若宮イヴ)",
+      "has_synced": true,
+      "path": "select/02_はなまる◎アンダンテ_[instrumental]_Pastel_Palettes_(丸山彩、氷川日菜、白鷺千聖、大和麻弥、若宮イヴ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンダンテ",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/03_アンダンテ_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンダンテ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_アンダンテ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンダンテ",
+      "artist": "野中 藍",
+      "has_synced": false,
+      "path": "select/05_アンダンテ_野中_藍.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンダンテ",
+      "artist": "野中藍",
+      "has_synced": false,
+      "path": "select/06_アンダンテ_野中藍.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/07_はなまる◎アンダンテ_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ",
+      "artist": "Pastel*Palettes",
+      "has_synced": true,
+      "path": "select/08_はなまる◎アンダンテ_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/09_はなまる◎アンダンテ_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ",
+      "artist": "Pastel＊Palettes",
+      "has_synced": true,
+      "path": "select/10_はなまる◎アンダンテ_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "はなまる◎アンダンテ",
+      "artist": "Pastel*Palettes",
+      "has_synced": false,
+      "path": "select/11_はなまる◎アンダンテ_Pastel_Palettes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダンテ",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_アンダンテ_ClariS.txt"
+    }
+  ]
+}
